@@ -1,6 +1,6 @@
 
 #!/bin/bash
-
+#Файл створює каталог
 mkdir Shlemkevych
 
 cd Shlemkevych 
